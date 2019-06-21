@@ -1,0 +1,16 @@
+{
+  "name": "insbot",
+  "version": "1.0.0",
+  "description": "bot to create bot account",
+  "main": "\"\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node registerBot.js"
+  },
+  "author": "steven zhao",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "puppeteer": "^1.18.0"
+  }
+}
